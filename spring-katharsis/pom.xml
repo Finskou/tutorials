@@ -45,7 +45,7 @@
 
 
     <properties>
-        <katharsis.version>2.1.3</katharsis.version>
+        <katharsis.version>3.0.1</katharsis.version>
         <cargo-maven2-plugin.version>1.6.1</cargo-maven2-plugin.version>
     </properties>
 
